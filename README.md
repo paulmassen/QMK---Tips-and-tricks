@@ -42,3 +42,7 @@ void leader_end(void) {
 ```
 
 # Using it in French
+
+# Credits & References
+
+https://thomasbaart.nl/2018/12/13/qmk-basics-tap-dance/
